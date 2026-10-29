@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Runtime error logs. ErrorLog.txt is over GitHub's 100 MB file limit.
+ErrorLog.txt
+Online_Error_Log.txt
+SBHErrorLog.txt
+ErrorLog/
